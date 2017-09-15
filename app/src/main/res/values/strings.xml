@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">True False Quiz</string>
+    <string name="false_text">False</string>
+    <string name="true_text">False</string>
+    <string name="next">False</string>
+    <string name="boy_girl_menu">The boy and the girl read the menu</string>
+    <string name="girl_bread">The girl eats bread.</string>
+    <string name="bigbang">The BigBang theory is false</string>
+</resources>
+
